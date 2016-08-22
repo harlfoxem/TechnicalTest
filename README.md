@@ -1,1 +1,1 @@
-# TechnicalTest for a data scientist postion at Amadeus 
+# Technical Test for a data scientist postion at Amadeus 
